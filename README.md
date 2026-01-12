@@ -66,13 +66,7 @@ I enjoy working on real-world problems involving **Computer Vision, Object Track
 
 ---
 
-## 📊 GitHub Stats  
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshishLahire&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishLahire&layout=compact&theme=tokyonight)
-
----
 
 ⭐ *Always learning. Always building.*
 
