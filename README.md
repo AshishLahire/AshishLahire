@@ -1,4 +1,4 @@
-Ashish Lahire  
+#  I'm Ashish Lahire  
 
 🎓 **Postgraduate in Mathematics** | 🤖 **AI & ML Enthusiast** | 📊 **Data Science Learner**  
 
@@ -56,7 +56,6 @@ I enjoy working on real-world problems involving **Computer Vision, Object Track
 
 - **Minor in Data Science & Machine Learning** — *CCE, IIT Mandi* (2024–2025)  
 - **M.Sc. Mathematics** — *Abasaheb Garware College, Pune* (2022–2024)  
-- **B.Sc. Science** — *S.S.G.M. College, Kopargaon* (2019–2022)  
 
 ---
 
@@ -76,3 +75,5 @@ I enjoy working on real-world problems involving **Computer Vision, Object Track
 ---
 
 ⭐ *Always learning. Always building.*
+
+
