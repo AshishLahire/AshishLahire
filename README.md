@@ -1,16 +1,78 @@
-## Hi there 👋
+Ashish Lahire  
 
-<!--
-**AshishLahire/AshishLahire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Postgraduate in Mathematics** | 🤖 **AI & ML Enthusiast** | 📊 **Data Science Learner**  
 
-Here are some ideas to get you started:
+I am passionate about building intelligent, data-driven solutions using **Python, Machine Learning, and Deep Learning**.  
+I enjoy working on real-world problems involving **Computer Vision, Object Tracking, and Data Analysis**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect with Me  
+
+- 📧 Email: **ashishlahire12@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/ashish-lahire-186111256](https://linkedin.com/in/ashish-lahire-186111256)  
+- 🐙 GitHub: [github.com/AshishLahire](https://github.com/AshishLahire)  
+
+---
+
+## 🛠️ Technical Skills  
+
+**Programming & Data**
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+
+**Machine Learning & AI**
+- Machine Learning  
+- Deep Learning  
+- TensorFlow, PyTorch  
+
+**Other**
+- Data Visualization  
+- Computer Vision  
+- Mathematical & Statistical Analysis  
+
+---
+
+## 📂 Projects  
+
+### 🚀 Object Tracking in Self-Recorded Videos  
+📍 *IIT Mandi Project*  
+
+- Developed an object tracking system using **CoTracker-v3**
+- Tracked user-selected objects across video frames
+- Improved robustness for varying lighting, resolution, and motion
+- Visualized object trajectories for performance evaluation  
+
+🔗 **Project Repo:**  
+👉 https://github.com/AshishLahire/tracking_an_object_in_self_recorded_videos  
+
+**Tech Stack:**  
+`Python | PyTorch | OpenCV | NumPy | Pandas | Deep Learning`
+
+---
+
+## 🎓 Education  
+
+- **Minor in Data Science & Machine Learning** — *CCE, IIT Mandi* (2024–2025)  
+- **M.Sc. Mathematics** — *Abasaheb Garware College, Pune* (2022–2024)  
+- **B.Sc. Science** — *S.S.G.M. College, Kopargaon* (2019–2022)  
+
+---
+
+## 📜 Certifications  
+
+- **AI & ML with Deep Learning** — IIT Bombay (Aavhan)  
+- **AI & ML for Geodata Analysis** — ISRO, Dehradun  
+
+---
+
+## 📊 GitHub Stats  
+
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshishLahire&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishLahire&layout=compact&theme=tokyonight)
+
+---
+
+⭐ *Always learning. Always building.*
