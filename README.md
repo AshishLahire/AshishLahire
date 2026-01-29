@@ -12,7 +12,7 @@ I enjoy working on real-world problems involving **Computer Vision, Object Track
 - 📧 Email: **ashishlahire12@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/ashish-lahire-186111256](https://linkedin.com/in/ashish-lahire-186111256)  
 - 🐙 GitHub: [github.com/AshishLahire](https://github.com/AshishLahire)
-- Portfolio: (https://ashishlahire.lovable.app)
+- Portfolio: https://ashishlahire.lovable.app
 
 ---
 
