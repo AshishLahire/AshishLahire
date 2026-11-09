@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Ashish%20Lahire&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20ML%20%E2%80%A2%20Agentic%20Systems&descAlignY=58&descSize=18" width="100%" alt="Ashish Lahire" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Ashish%20Lahire&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20ML%20%E2%80%A2%20Agentic%20Systems&descAlignY=58&descSize=18" width="100%" alt="Ashish Lahire" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+LLM+agents+%26+RAG+systems;Low-latency+AI+with+FastAPI+%2B+streaming;Computer+Vision+%26+Machine+Learning;M.Sc.+Mathematics+%E2%86%92+AI+Engineering" alt="Typing SVG" /></a>
 
@@ -17,8 +17,9 @@
 
 ### 👋 About Me
 
-I'm an **AI Engineer from Pune** with a postgraduate background in **Mathematics** and a minor in **Data Science & ML from IIT Mandi**. I build practical AI systems — from **RAG-powered agents** and **LLM document pipelines** to **computer vision** and classic **ML pipelines** — and ship them as working, deployed apps.
+I'm an **AI/ML Engineer from Pune** (since May 2026) with a postgraduate background in **Mathematics** and a minor in **Data Science & ML from IIT Mandi**. I build practical AI systems — from **RAG-powered agents** and **LLM document pipelines** to **computer vision** and classic **ML pipelines** — and ship them as working, deployed apps.
 
+- 💼 Working as an **AI/ML Engineer** since **May 2026**
 - 🔭 Currently building a **broker-integrated trading platform** (FastAPI + React) with paper trading, live market data and AI-assisted insights
 - 🧠 Interested in agentic workflows, retrieval, low-latency inference and applied CV
 - 📐 I bring mathematical rigor (linear algebra, statistics, optimisation) to model design
@@ -27,7 +28,7 @@ I'm an **AI Engineer from Pune** with a postgraduate background in **Mathematics
 ```python
 class AshishLahire:
     def __init__(self):
-        self.role       = "AI Engineer"
+        self.role       = "AI/ML Engineer (May 2026 – present)"
         self.based_in   = "Pune, India 🇮🇳"
         self.background = ["M.Sc. Mathematics", "DS & ML @ IIT Mandi"]
         self.building   = ["LLM agents", "RAG pipelines", "Trading platform"]
@@ -51,7 +52,8 @@ timeline
          : Object tracking with CoTracker-v3
     2025 : LLM agents, RAG and GenAI apps
          : Deployed AI products on Render & Streamlit
-    2026 : Building a broker-integrated trading platform
+    2026 : Joined as AI/ML Engineer (May)
+         : TradeVerify, LastMile AI, Pramaan & Trading Dashboard
 ```
 
 ---
