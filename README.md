@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Ashish%20Lahire&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20ML%20%E2%80%A2%20Agentic%20Systems&descAlignY=58&descSize=18" width="100%" alt="Ashish Lahire" />
+<img src="./assets/header.svg" width="100%" alt="Ashish Lahire - AI/ML Engineer" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+LLM+agents+%26+RAG+systems;Low-latency+AI+with+FastAPI+%2B+streaming;Computer+Vision+%26+Machine+Learning;M.Sc.+Mathematics+%E2%86%92+AI+Engineering" alt="Typing SVG" /></a>
 
@@ -33,6 +33,14 @@ I'm an **AI/ML Engineer from Pune** (since May 2026) with a postgraduate backgro
 | 🛠️ **Building** | LLM agents · RAG pipelines · Trading platform |
 | 💬 **Ask me about** | Linear algebra · RAG design · Computer vision |
 | 🧮 **Formula** | *Mathematics + Code + Curiosity = AI that ships* 🚀 |
+
+---
+
+### 🧪 Live from My Lab
+
+<p align="center">
+  <img src="./assets/training.svg" width="100%" alt="Animated terminal: training a model while loss falls and accuracy rises" />
+</p>
 
 ---
 
