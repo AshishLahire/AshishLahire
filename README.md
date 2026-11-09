@@ -112,6 +112,18 @@ $$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\rig
 
 `PyTorch` `timm` `EfficientNet` `OpenCV` `Albumentations` `Biometrics` `Anti-Spoofing`
 
+#### 🎯 [Object Tracking in Self-Recorded Videos](https://github.com/AshishLahire/tracking_an_object_in_self_recorded_videos) · *IIT Mandi*
+
+> Pick any object in the first frame of a phone or webcam video, and the system follows it through every frame, even through motion, blur and partial occlusion.
+
+- 🛰️ **Deep point tracking:** uses Meta's **CoTracker-v3** transformer to track points on the selected object jointly across the whole video
+- 📱 **Built for real-world footage:** handles self-recorded videos with varying resolutions, frame rates, lighting and background clutter
+- 🧩 **Occlusion-robust:** keeps the object when it is partly hidden or moving fast
+- 🎨 **Trajectory visualisation:** draws the tracked path over the output video for evaluation
+- 📑 **Research write-up:** full project report with results, scores and future work
+
+`Python` `PyTorch` `CoTracker-v3` `OpenCV` `Computer Vision` `Video AI`
+
 ---
 
 ### 🚀 Other Projects
@@ -146,28 +158,28 @@ Multimodal maths tutor that solves problems from **text, audio and images**.
 </td>
 <td width="50%" valign="top">
 
-#### 🎯 [Object Tracking in Videos](https://github.com/AshishLahire/tracking_an_object_in_self_recorded_videos)
-*IIT Mandi project.* Tracks user-selected objects with **CoTracker-v3**, robust to lighting, resolution and motion changes.
-
-`PyTorch` `OpenCV` `Computer Vision`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 #### 🧾 [Customer Reconciliation & Claims](https://github.com/AshishLahire/marico_reconciliation)
 Intelligent reconciliation and claims resolution for organised trade and D2C channels.
 
 `Python` `Data Automation`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🎬 [AI Avatar Video Generator](https://github.com/AshishLahire/ai_avatar)
 End-to-end pipeline: idea → script → voice → HeyGen avatar video. · [Live demo](https://aiavatar-aqnxcdn6s559nhs4e6tdw5.streamlit.app/)
 
 `Python` `Streamlit` `GenAI APIs`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔢 [MNIST Digit Classification](https://github.com/AshishLahire/mnist-handwritten-digits-ml)
+End-to-end ML pipeline with **PCA**, KNN / SVM / Decision Tree and **ensemble voting**, evaluated with confusion matrices.
+
+`scikit-learn` `PCA` `Ensembles`
 
 </td>
 </tr>
@@ -177,7 +189,6 @@ End-to-end pipeline: idea → script → voice → HeyGen avatar video. · [Live
 <summary><b>📦 More projects</b></summary>
 <br/>
 
-- 🔢 [MNIST Digit Classification](https://github.com/AshishLahire/mnist-handwritten-digits-ml) — PCA + KNN/SVM/Decision Tree with ensemble voting
 - 📰 [News Classification Pipeline](https://github.com/AshishLahire/News-Classification-ML-Pipeline) — TF-IDF + tuned linear models
 - 📄 [Resume Summarization Service](https://github.com/AshishLahire/Resume_summarization_service) — summarise resumes with AI
 - 🧩 [JSON Extractor](https://github.com/AshishLahire/Json-Extractor) — structured data extraction
