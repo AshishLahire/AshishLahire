@@ -105,8 +105,8 @@ $$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\rig
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🛃 **TradeVerify AI** · *FedEx* | Verifies trade documents (invoice, packing list, B/L, LC) with OCR, forensics, sanctions screening and a customs review workflow | `Python` `OCR` `OpenCV` `Security` |
-| 🚚 **LastMile AI** · *Govt. of Andhra Pradesh* | Predicts delivery delays, forecasts demand and optimises routes for supplies to Anganwadi centres across 15 districts | `FastAPI` `XGBoost` `React` `Leaflet` |
+| 🛃 **TradeVerify AI** · *FedEx* · 👑 **Team Lead** | Verifies trade documents (invoice, packing list, B/L, LC) with OCR, forensics, sanctions screening and a customs review workflow | `Python` `OCR` `OpenCV` `Security` |
+| 🚚 **LastMile AI** · *Govt. of Andhra Pradesh* · 👑 **Team Lead** | Predicts delivery delays, forecasts demand and optimises routes for supplies to Anganwadi centres across 15 districts | `FastAPI` `XGBoost` `React` `Leaflet` |
 | 🔎 **Pramaan** · *Nasscom × Fujitsu* | Detects fake government notices in 23 Indian languages using OCR, speech-to-text, forensic rules and hybrid retrieval | `PaddleOCR` `Whisper` `RAG` `HDBSCAN` |
 | 🖐️ **[Fingerprint Liveness](https://github.com/AshishLahire/contactless-fingerprint-liveness)** | Tells live fingers from spoofs in contactless fingerprint images | `PyTorch` `EfficientNet` `OpenCV` |
 | 📈 **Trading Dashboard** | Broker-integrated trading terminal with live market data, paper trading and AI-assisted insights | `FastAPI` `React` `WebSockets` |
