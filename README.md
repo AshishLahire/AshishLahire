@@ -141,11 +141,10 @@ timeline
 
 ### 🏙️ My Contributions in 3D
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-brand.svg" width="100%" alt="3D contribution graph with language and activity breakdown" />
+</p>
+<p align="center"><sub>Every bar is a day of building, refreshed daily by GitHub Actions</sub></p>
 
 ---
 
