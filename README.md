@@ -115,73 +115,16 @@ $$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\rig
 
 ### 🚀 Other Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### ⚡ [Low-Latency AI Support Agent](https://github.com/AshishLahire/low-latency-ai-agent)
-Conversational support agent with **RAG**, **Groq (Llama 3)**, **Supabase pgvector** and **token-by-token SSE streaming** over FastAPI.
-
-`Python` `FastAPI` `RAG` `pgvector`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏗️ [AI Diagnostic Report Builder](https://github.com/AshishLahire/AI-Generalist)
-Agentic system that turns raw inspection PDFs and thermal scans into a structured, client-ready diagnostic report. · [Live demo](https://ai-generalist.onrender.com)
-
-`Python` `Groq` `LLM Agents` `PDF`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🧮 [MATAI — AI Maths Mentor](https://github.com/AshishLahire/MATAI)
-Multimodal maths tutor that solves problems from **text, audio and images**.
-
-`Python` `Multimodal` `LLM`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🧾 [Customer Reconciliation & Claims](https://github.com/AshishLahire/marico_reconciliation)
-Intelligent reconciliation and claims resolution for organised trade and D2C channels.
-
-`Python` `Data Automation`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎬 [AI Avatar Video Generator](https://github.com/AshishLahire/ai_avatar)
-End-to-end pipeline: idea → script → voice → HeyGen avatar video. · [Live demo](https://aiavatar-aqnxcdn6s559nhs4e6tdw5.streamlit.app/)
-
-`Python` `Streamlit` `GenAI APIs`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🖐️ [Fingerprint Liveness Detection](https://github.com/AshishLahire/contactless-fingerprint-liveness)
-EfficientNet-B3 model that detects **live vs. spoof** fingers in contactless fingerprint images.
-
-`PyTorch` `EfficientNet` `Biometrics`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📦 More projects</b></summary>
-<br/>
-
-- 🔢 [MNIST Digit Classification](https://github.com/AshishLahire/mnist-handwritten-digits-ml) — PCA + KNN/SVM/Decision Tree with ensemble voting
-- 📰 [News Classification Pipeline](https://github.com/AshishLahire/News-Classification-ML-Pipeline) — TF-IDF + tuned linear models
-- 📄 [Resume Summarization Service](https://github.com/AshishLahire/Resume_summarization_service) — summarise resumes with AI
-- 🧩 [JSON Extractor](https://github.com/AshishLahire/Json-Extractor) — structured data extraction
-
-</details>
+- ⚡ [**Low-Latency AI Agent**](https://github.com/AshishLahire/low-latency-ai-agent): RAG support bot with streaming responses
+- 🏗️ [**AI Report Builder**](https://github.com/AshishLahire/AI-Generalist): turns inspection PDFs into diagnostic reports · [demo](https://ai-generalist.onrender.com)
+- 🧮 [**MATAI**](https://github.com/AshishLahire/MATAI): maths tutor that takes text, voice or image input
+- 🧾 [**Reconciliation & Claims**](https://github.com/AshishLahire/marico_reconciliation): automated trade and D2C claims matching
+- 🎬 [**AI Avatar Generator**](https://github.com/AshishLahire/ai_avatar): turns an idea into an avatar video · [demo](https://aiavatar-aqnxcdn6s559nhs4e6tdw5.streamlit.app/)
+- 🖐️ [**Fingerprint Liveness**](https://github.com/AshishLahire/contactless-fingerprint-liveness): tells live fingers from spoofs
+- 🔢 [**MNIST Classifier**](https://github.com/AshishLahire/mnist-handwritten-digits-ml): PCA with ensemble ML models
+- 📰 [**News Classifier**](https://github.com/AshishLahire/News-Classification-ML-Pipeline): TF-IDF text classification
+- 📄 [**Resume Summarizer**](https://github.com/AshishLahire/Resume_summarization_service): summarises resumes with AI
+- 🧩 [**JSON Extractor**](https://github.com/AshishLahire/Json-Extractor): extracts structured data from text
 
 ---
 
