@@ -24,6 +24,48 @@ I'm an **AI Engineer from Pune** with a postgraduate background in **Mathematics
 - 📐 I bring mathematical rigor (linear algebra, statistics, optimisation) to model design
 - ⚡ Fun fact: I like turning messy real-world data into clean, structured output
 
+```python
+class AshishLahire:
+    def __init__(self):
+        self.role       = "AI Engineer"
+        self.based_in   = "Pune, India 🇮🇳"
+        self.background = ["M.Sc. Mathematics", "DS & ML @ IIT Mandi"]
+        self.building   = ["LLM agents", "RAG pipelines", "Trading platform"]
+        self.ask_me     = ["Linear algebra", "RAG design", "Computer vision"]
+
+    def formula(self):
+        return "Mathematics + Code + Curiosity = AI that ships 🚀"
+
+me = AshishLahire()
+print(me.formula())
+```
+
+---
+
+### 🧭 My Journey
+
+```mermaid
+timeline
+    2022 : Started M.Sc. Mathematics, Pune
+    2024 : Minor in DS & ML, IIT Mandi
+         : Object tracking with CoTracker-v3
+    2025 : LLM agents, RAG and GenAI apps
+         : Deployed AI products on Render & Streamlit
+    2026 : Building a broker-integrated trading platform
+```
+
+---
+
+### 📐 Where Maths Meets ML
+
+My favourite idea, and the one behind half my projects. PCA finds the directions of greatest variance by solving an eigenvalue problem:
+
+$$\Sigma \mathbf{v} = \lambda \mathbf{v}, \qquad \Sigma = \frac{1}{n} X^\top X$$
+
+…and attention, the core of every LLM I build with, is just linear algebra plus a softmax:
+
+$$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\right)V$$
+
 ---
 
 ### 🛠️ Tech Stack
@@ -123,7 +165,19 @@ End-to-end pipeline: idea → script → voice → HeyGen avatar video. · [Live
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishLahire&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=AshishLahire&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshishLahire&theme=tokyo-night&hide_border=true&area=true" />
 </div>
+
+---
+
+### 🐍 Watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshishLahire/AshishLahire/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshishLahire/AshishLahire/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/AshishLahire/AshishLahire/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -143,6 +197,8 @@ End-to-end pipeline: idea → script → voice → HeyGen avatar video. · [Live
 ### 🤝 Open to collaborations on AI agents, RAG and applied ML
 
 ⭐ *Always learning. Always building.*
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
 
