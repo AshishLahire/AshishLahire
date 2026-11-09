@@ -131,12 +131,7 @@ $$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\rig
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AshishLahire&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishLahire&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=AshishLahire&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshishLahire&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
