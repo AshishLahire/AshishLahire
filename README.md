@@ -73,7 +73,9 @@ timeline
 
 <p align="center"><i>Every model I ship is linear algebra, calculus and probability underneath.</i></p>
 
-$$\underbrace{\Sigma \mathbf{v} = \lambda \mathbf{v}}_{\text{PCA}} \qquad \underbrace{P(\theta \mid D) \propto P(D \mid \theta)\,P(\theta)}_{\text{Bayes}} \qquad \underbrace{\mathcal{L} = -\sum_i y_i \log \hat{y}_i}_{\text{Cross-entropy}}$$
+| PCA | Bayes | Cross-entropy |
+|:---:|:---:|:---:|
+| $\Sigma v = \lambda v$ | $P(\theta \mid D) \propto P(D \mid \theta) P(\theta)$ | $L = -\sum_i y_i \log \hat{y}_i$ |
 
 ---
 
