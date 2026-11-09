@@ -87,42 +87,13 @@ $$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\rig
 
 ### ⭐ Main Projects
 
-#### 🛃 [TradeVerify AI — Trade Document Verification](https://github.com/AshishLahire/tradeverify-doc-verification) · *built for FedEx*
-
-> An end-to-end customs clearance platform: exporters upload a **Commercial Invoice, Packing List, Bill of Lading and Letter of Credit**, and the system verifies them before a customs official approves or holds the shipment.
-
-- 📄 **Offline document extraction:** pdfplumber + RapidOCR pull fields from PDFs and scans with no external API calls
-- 🔗 **Cross-document verification:** matches values across all four documents and validates ISO 6346 container and IMO vessel checksums
-- 🕵️ **Forensic authenticity engine:** PDF signature checks, Error Level Analysis, QR reconciliation, issuer and Certificate of Origin checks, AIS vessel-route verification
-- 🚫 **Sanctions & compliance screening:** embargoed jurisdictions, high-risk ports, dual-use goods, HS codes and quota rules
-- 🛡️ **Security operations console:** TOTP MFA, geo-velocity checks, account lockouts, HMAC-signed clearance seals and an append-only audit log
-- 🧑‍⚖️ **Two-sided workflow:** exporter portal plus a customs review queue, backed by SQLite and a full pytest suite in CI
-
-`Python` `OCR` `OpenCV` `Document AI` `Fraud Detection` `Compliance` `Security`
-
-#### 🖐️ [Contactless Fingerprint Liveness Detection](https://github.com/AshishLahire/contactless-fingerprint-liveness)
-
-> A deep learning anti-spoofing system that tells a **live finger** from a **spoof** (prints, replays, fakes) in touchless fingerprint images captured by a camera.
-
-- 🧠 **EfficientNet-B3 classifier:** ImageNet-pretrained backbone (timm) fine-tuned for live vs. spoof
-- 🔬 **Ridge-enhancing preprocessing:** CLAHE contrast enhancement, Gaussian denoising and normalisation to bring out fingerprint ridges
-- 🧪 **Real + synthetic spoofs:** trained on genuine spoof captures plus synthetically generated attacks for better generalisation
-- 🎛️ **Robustness augmentation:** flips, brightness/contrast shifts, blur and noise to mimic real phone-camera conditions
-- ⚙️ **Full pipeline:** preprocessing → training with AdamW and best-checkpoint selection → single-image inference
-
-`PyTorch` `timm` `EfficientNet` `OpenCV` `Albumentations` `Biometrics` `Anti-Spoofing`
-
-#### 🎯 [Object Tracking in Self-Recorded Videos](https://github.com/AshishLahire/tracking_an_object_in_self_recorded_videos) · *IIT Mandi*
-
-> Pick any object in the first frame of a phone or webcam video, and the system follows it through every frame, even through motion, blur and partial occlusion.
-
-- 🛰️ **Deep point tracking:** uses Meta's **CoTracker-v3** transformer to track points on the selected object jointly across the whole video
-- 📱 **Built for real-world footage:** handles self-recorded videos with varying resolutions, frame rates, lighting and background clutter
-- 🧩 **Occlusion-robust:** keeps the object when it is partly hidden or moving fast
-- 🎨 **Trajectory visualisation:** draws the tracked path over the output video for evaluation
-- 📑 **Research write-up:** full project report with results, scores and future work
-
-`Python` `PyTorch` `CoTracker-v3` `OpenCV` `Computer Vision` `Video AI`
+| Project | What it does | Stack |
+|---|---|---|
+| 🛃 **TradeVerify AI** · *FedEx* | Verifies trade documents (invoice, packing list, B/L, LC) with OCR, forensics, sanctions screening and a customs review workflow | `Python` `OCR` `OpenCV` `Security` |
+| 🚚 **LastMile AI** · *Govt. of Andhra Pradesh* | Predicts delivery delays, forecasts demand and optimises routes for supplies to Anganwadi centres across 15 districts | `FastAPI` `XGBoost` `React` `Leaflet` |
+| 🔎 **Pramaan** · *Nasscom × Fujitsu* | Detects fake government notices in 23 Indian languages using OCR, speech-to-text, forensic rules and hybrid retrieval | `PaddleOCR` `Whisper` `RAG` `HDBSCAN` |
+| 📈 **Trading Dashboard** | Broker-integrated trading terminal with live market data, paper trading and AI-assisted insights | `FastAPI` `React` `WebSockets` |
+| 🎯 **[Object Tracking](https://github.com/AshishLahire/tracking_an_object_in_self_recorded_videos)** · *IIT Mandi* | Tracks any user-selected object through real-world videos, robust to motion and occlusion | `PyTorch` `CoTracker-v3` `OpenCV` |
 
 ---
 
@@ -176,10 +147,10 @@ End-to-end pipeline: idea → script → voice → HeyGen avatar video. · [Live
 </td>
 <td width="50%" valign="top">
 
-#### 🔢 [MNIST Digit Classification](https://github.com/AshishLahire/mnist-handwritten-digits-ml)
-End-to-end ML pipeline with **PCA**, KNN / SVM / Decision Tree and **ensemble voting**, evaluated with confusion matrices.
+#### 🖐️ [Fingerprint Liveness Detection](https://github.com/AshishLahire/contactless-fingerprint-liveness)
+EfficientNet-B3 model that detects **live vs. spoof** fingers in contactless fingerprint images.
 
-`scikit-learn` `PCA` `Ensembles`
+`PyTorch` `EfficientNet` `Biometrics`
 
 </td>
 </tr>
@@ -189,6 +160,7 @@ End-to-end ML pipeline with **PCA**, KNN / SVM / Decision Tree and **ensemble vo
 <summary><b>📦 More projects</b></summary>
 <br/>
 
+- 🔢 [MNIST Digit Classification](https://github.com/AshishLahire/mnist-handwritten-digits-ml) — PCA + KNN/SVM/Decision Tree with ensemble voting
 - 📰 [News Classification Pipeline](https://github.com/AshishLahire/News-Classification-ML-Pipeline) — TF-IDF + tuned linear models
 - 📄 [Resume Summarization Service](https://github.com/AshishLahire/Resume_summarization_service) — summarise resumes with AI
 - 🧩 [JSON Extractor](https://github.com/AshishLahire/Json-Extractor) — structured data extraction
