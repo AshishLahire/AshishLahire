@@ -85,7 +85,24 @@ $$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\rig
 
 ---
 
-### 🚀 Featured Projects
+### ⭐ Main Projects
+
+#### 🛃 [TradeVerify AI — Trade Document Verification](https://github.com/AshishLahire/tradeverify-doc-verification) · *built for FedEx*
+
+> An end-to-end customs clearance platform: exporters upload a **Commercial Invoice, Packing List, Bill of Lading and Letter of Credit**, and the system verifies them before a customs official approves or holds the shipment.
+
+- 📄 **Offline document extraction:** pdfplumber + RapidOCR pull fields from PDFs and scans with no external API calls
+- 🔗 **Cross-document verification:** matches values across all four documents and validates ISO 6346 container and IMO vessel checksums
+- 🕵️ **Forensic authenticity engine:** PDF signature checks, Error Level Analysis, QR reconciliation, issuer and Certificate of Origin checks, AIS vessel-route verification
+- 🚫 **Sanctions & compliance screening:** embargoed jurisdictions, high-risk ports, dual-use goods, HS codes and quota rules
+- 🛡️ **Security operations console:** TOTP MFA, geo-velocity checks, account lockouts, HMAC-signed clearance seals and an append-only audit log
+- 🧑‍⚖️ **Two-sided workflow:** exporter portal plus a customs review queue, backed by SQLite and a full pytest suite in CI
+
+`Python` `OCR` `OpenCV` `Document AI` `Fraud Detection` `Compliance` `Security`
+
+---
+
+### 🚀 Other Projects
 
 <table>
 <tr>
