@@ -100,6 +100,18 @@ $$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\rig
 
 `Python` `OCR` `OpenCV` `Document AI` `Fraud Detection` `Compliance` `Security`
 
+#### 🖐️ [Contactless Fingerprint Liveness Detection](https://github.com/AshishLahire/contactless-fingerprint-liveness)
+
+> A deep learning anti-spoofing system that tells a **live finger** from a **spoof** (prints, replays, fakes) in touchless fingerprint images captured by a camera.
+
+- 🧠 **EfficientNet-B3 classifier:** ImageNet-pretrained backbone (timm) fine-tuned for live vs. spoof
+- 🔬 **Ridge-enhancing preprocessing:** CLAHE contrast enhancement, Gaussian denoising and normalisation to bring out fingerprint ridges
+- 🧪 **Real + synthetic spoofs:** trained on genuine spoof captures plus synthetically generated attacks for better generalisation
+- 🎛️ **Robustness augmentation:** flips, brightness/contrast shifts, blur and noise to mimic real phone-camera conditions
+- ⚙️ **Full pipeline:** preprocessing → training with AdamW and best-checkpoint selection → single-image inference
+
+`PyTorch` `timm` `EfficientNet` `OpenCV` `Albumentations` `Biometrics` `Anti-Spoofing`
+
 ---
 
 ### 🚀 Other Projects
@@ -167,7 +179,6 @@ End-to-end pipeline: idea → script → voice → HeyGen avatar video. · [Live
 
 - 🔢 [MNIST Digit Classification](https://github.com/AshishLahire/mnist-handwritten-digits-ml) — PCA + KNN/SVM/Decision Tree with ensemble voting
 - 📰 [News Classification Pipeline](https://github.com/AshishLahire/News-Classification-ML-Pipeline) — TF-IDF + tuned linear models
-- 🖐️ [Contactless Fingerprint Liveness](https://github.com/AshishLahire/contactless-fingerprint-liveness) — fingerprint dataset & liveness detection
 - 📄 [Resume Summarization Service](https://github.com/AshishLahire/Resume_summarization_service) — summarise resumes with AI
 - 🧩 [JSON Extractor](https://github.com/AshishLahire/Json-Extractor) — structured data extraction
 
