@@ -171,12 +171,12 @@ End-to-end pipeline: idea → script → voice → HeyGen avatar video. · [Live
 
 ---
 
-### 🐍 Watch the snake eat my contributions
+### 🏙️ My Contributions in 3D
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshishLahire/AshishLahire/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshishLahire/AshishLahire/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/AshishLahire/AshishLahire/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblue.svg" />
+  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 ---
