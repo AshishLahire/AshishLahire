@@ -67,13 +67,13 @@ timeline
 
 ### 📐 Where Maths Meets ML
 
-My favourite idea, and the one behind half my projects. PCA finds the directions of greatest variance by solving an eigenvalue problem:
+<p align="center">
+  <img src="./assets/math-ml.svg" width="100%" alt="Animated: gradient descent, neural network forward pass and self-attention" />
+</p>
 
-$$\Sigma \mathbf{v} = \lambda \mathbf{v}, \qquad \Sigma = \frac{1}{n} X^\top X$$
+<p align="center"><i>Every model I ship is linear algebra, calculus and probability underneath.</i></p>
 
-…and attention, the core of every LLM I build with, is just linear algebra plus a softmax:
-
-$$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\right)V$$
+$$\underbrace{\Sigma \mathbf{v} = \lambda \mathbf{v}}_{\text{PCA}} \qquad \underbrace{P(\theta \mid D) \propto P(D \mid \theta)\,P(\theta)}_{\text{Bayes}} \qquad \underbrace{\mathcal{L} = -\sum_i y_i \log \hat{y}_i}_{\text{Cross-entropy}}$$
 
 ---
 
