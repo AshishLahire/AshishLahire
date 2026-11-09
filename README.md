@@ -47,13 +47,27 @@ print(me.formula())
 
 ```mermaid
 timeline
-    2022 : Started M.Sc. Mathematics, Pune
-    2024 : Minor in DS & ML, IIT Mandi
-         : Object tracking with CoTracker-v3
-    2025 : LLM agents, RAG and GenAI apps
-         : Deployed AI products on Render & Streamlit
-    2026 : Joined as AI/ML Engineer (May)
-         : TradeVerify, LastMile AI, Pramaan & Trading Dashboard
+    section 🎓 Foundations
+        2022 : M.Sc. Mathematics begins, Pune
+        2024 : M.Sc. Mathematics completed
+             : Minor in DS & ML begins, IIT Mandi
+        2025 : Object tracking with CoTracker-v3 (IIT Mandi)
+             : Minor in DS & ML completed
+    section 🛠️ Building
+        Jan–Feb 2026 : ML pipelines for MNIST and news classification
+                     : Summarisation and JSON extraction services
+        Mar–Apr 2026 : Low-latency RAG support agent
+                     : MATAI maths mentor and AI avatar generator
+                     : AI diagnostic report builder
+    section 💼 Professional
+        May 2026 : Joined as AI/ML Engineer
+                 : Fingerprint liveness detection
+        Oct–Nov 2026 : TradeVerify AI for FedEx
+                     : Pramaan for Nasscom × Fujitsu
+                     : LastMile AI for Govt. of Andhra Pradesh
+                     : Trading dashboard
+    section 🚀 Next
+        2027 : Scaling agentic AI systems to production
 ```
 
 ---
