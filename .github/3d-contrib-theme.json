@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-brand.svg",
+  "backgroundColor": "#0b1120",
+  "foregroundColor": "#e2e8f0",
+  "strongColor": "#38bdf8",
+  "weakColor": "#64748b",
+  "radarColor": "#a78bfa",
+  "growingAnimation": true,
+  "contribColors": ["#1e293b", "#3730a3", "#7c3aed", "#a78bfa", "#38bdf8"]
+}

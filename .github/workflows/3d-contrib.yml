@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/3d-contrib.yml", "README.md"]
+    paths: [".github/workflows/3d-contrib.yml", ".github/3d-contrib-theme.json", "README.md"]
 
 permissions:
   contents: write
@@ -23,6 +23,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
+      - name: Generate brand-themed 3D graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/3d-contrib-theme.json
 
       - name: Commit and push
         run: |
