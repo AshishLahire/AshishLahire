@@ -108,6 +108,7 @@ $$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\rig
 | 🛃 **TradeVerify AI** · *FedEx* | Verifies trade documents (invoice, packing list, B/L, LC) with OCR, forensics, sanctions screening and a customs review workflow | `Python` `OCR` `OpenCV` `Security` |
 | 🚚 **LastMile AI** · *Govt. of Andhra Pradesh* | Predicts delivery delays, forecasts demand and optimises routes for supplies to Anganwadi centres across 15 districts | `FastAPI` `XGBoost` `React` `Leaflet` |
 | 🔎 **Pramaan** · *Nasscom × Fujitsu* | Detects fake government notices in 23 Indian languages using OCR, speech-to-text, forensic rules and hybrid retrieval | `PaddleOCR` `Whisper` `RAG` `HDBSCAN` |
+| 🖐️ **[Fingerprint Liveness](https://github.com/AshishLahire/contactless-fingerprint-liveness)** | Tells live fingers from spoofs in contactless fingerprint images | `PyTorch` `EfficientNet` `OpenCV` |
 | 📈 **Trading Dashboard** | Broker-integrated trading terminal with live market data, paper trading and AI-assisted insights | `FastAPI` `React` `WebSockets` |
 | 🎯 **[Object Tracking](https://github.com/AshishLahire/tracking_an_object_in_self_recorded_videos)** · *IIT Mandi* | Tracks any user-selected object through real-world videos, robust to motion and occlusion | `PyTorch` `CoTracker-v3` `OpenCV` |
 
@@ -120,7 +121,6 @@ $$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\rig
 - 🧮 [**MATAI**](https://github.com/AshishLahire/MATAI): maths tutor that takes text, voice or image input
 - 🧾 [**Reconciliation & Claims**](https://github.com/AshishLahire/marico_reconciliation): automated trade and D2C claims matching
 - 🎬 [**AI Avatar Generator**](https://github.com/AshishLahire/ai_avatar): turns an idea into an avatar video · [demo](https://aiavatar-aqnxcdn6s559nhs4e6tdw5.streamlit.app/)
-- 🖐️ [**Fingerprint Liveness**](https://github.com/AshishLahire/contactless-fingerprint-liveness): tells live fingers from spoofs
 - 🔢 [**MNIST Classifier**](https://github.com/AshishLahire/mnist-handwritten-digits-ml): PCA with ensemble ML models
 - 📰 [**News Classifier**](https://github.com/AshishLahire/News-Classification-ML-Pipeline): TF-IDF text classification
 - 📄 [**Resume Summarizer**](https://github.com/AshishLahire/Resume_summarization_service): summarises resumes with AI
