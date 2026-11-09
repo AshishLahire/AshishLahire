@@ -25,21 +25,14 @@ I'm an **AI/ML Engineer from Pune** (since May 2026) with a postgraduate backgro
 - 📐 I bring mathematical rigor (linear algebra, statistics, optimisation) to model design
 - ⚡ Fun fact: I like turning messy real-world data into clean, structured output
 
-```python
-class AshishLahire:
-    def __init__(self):
-        self.role       = "AI/ML Engineer (May 2026 – present)"
-        self.based_in   = "Pune, India 🇮🇳"
-        self.background = ["M.Sc. Mathematics", "DS & ML @ IIT Mandi"]
-        self.building   = ["LLM agents", "RAG pipelines", "Trading platform"]
-        self.ask_me     = ["Linear algebra", "RAG design", "Computer vision"]
-
-    def formula(self):
-        return "Mathematics + Code + Curiosity = AI that ships 🚀"
-
-me = AshishLahire()
-print(me.formula())
-```
+| ⚡ Quick Facts | |
+|---|---|
+| 💼 **Role** | AI/ML Engineer (May 2026 – present) |
+| 📍 **Based in** | Pune, India 🇮🇳 |
+| 🎓 **Background** | M.Sc. Mathematics · DS & ML @ IIT Mandi |
+| 🛠️ **Building** | LLM agents · RAG pipelines · Trading platform |
+| 💬 **Ask me about** | Linear algebra · RAG design · Computer vision |
+| 🧮 **Formula** | *Mathematics + Code + Curiosity = AI that ships* 🚀 |
 
 ---
 
